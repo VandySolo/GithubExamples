@@ -116,17 +116,34 @@ checkout the branch
 ```
 git checkout dev
 ```
-
-
-
 ## Remotes
 
+we can add remote but often you will jsut add remote via upsteam when adding a branch
 
+```sh
+
+git remote add .
+git branch -u origin new-feature.
+```
 ## Staching
 
+```sh
+git stash list
+git stash
+git stash save my-name
+git stash apply
+git stash pop
 
+
+```
 
 ## Merging
+
+```
+git checkout dev
+git merge main
+```
+
 
 ## Add 
 When we want to stage changed that will be included in the commit. We can use the add all possible files. 
