@@ -101,6 +101,23 @@ git commit -m "add another exvlamation "
 
 ## Branches
 
+List of branches
+```
+git branch
+```
+create a new branch
+
+```
+git branch branch-name
+```
+
+checkout the branch
+
+```
+git checkout dev
+```
+
+
 
 ## Remotes
 
