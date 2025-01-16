@@ -1,7 +1,14 @@
 
 {
-    "features" : {
-        "ghcr.io/dhoeric/features/terraformer:1":{}
+"customizations": {
+    "vscode": {
+        "extensions": [
+            "mhutchie.git-graph"
+        ]
+    }
+},
+"features": {
+    "ghcr.io/dhoeric/features/terraformer:1":{}
 
 }
 }
