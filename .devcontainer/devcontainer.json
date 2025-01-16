@@ -8,7 +8,7 @@
     }
 },
 "features": {
-    "ghcr.io/dhoeric/features/terraformer:1":{}
+    "ghcr.io/dhoeric/features/terraform:1":{}
 
 }
 }
